@@ -1,0 +1,7 @@
+.movie-detail-container{
+    padding-top: 100px;
+}
+
+.detail-card-container{
+    display: flex;
+}

@@ -1,0 +1,28 @@
+.navbar-container{
+    background-color: #032541;
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+}
+
+.navbar-content{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 40px;
+    align-items: center;
+    background-color: #032541;
+}
+
+.navbar-left{
+    display: flex;
+    gap: 10px;
+}
+
+.navbar-right{
+    display: flex;
+    gap: 30px;
+}
+
+.navbar-right img{
+    width: 30px;
+}

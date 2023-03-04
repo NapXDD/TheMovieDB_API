@@ -1,0 +1,12 @@
+section.Hero-container{
+    height: calc(100vh/2.5);
+    background-image: url("../public/assets/Hero/34OGjFEbHj0E3lE2w0iTUVq0CBz.jpg");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Hero-content p{
+    color: white;
+    text-align: center;
+}

@@ -1,0 +1,34 @@
+.toggle-button-container{
+    display: flex;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.toggle-button-content{
+    display: flex;
+}
+
+.slide-tracker{
+    background-color: #032541;
+    color: #B6FCCD;
+    padding: 5px 20px;
+    border-radius: 10px;
+}
+
+.button2{
+    padding: 5px 20px;
+    border-radius: 10px;
+}
+
+.button1{
+    padding: 5px 20px;
+    border-radius: 10px;
+}
+
+.button1:hover{
+    cursor: pointer;
+}
+
+.button2:hover{
+    cursor: pointer;
+}

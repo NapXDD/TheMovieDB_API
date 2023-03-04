@@ -1,0 +1,11 @@
+.circleProgressing{
+    position: absolute;
+    height: 34px;
+    width: 34px;
+    bottom: -15px;
+    left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+}

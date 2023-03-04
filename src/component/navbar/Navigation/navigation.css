@@ -1,0 +1,9 @@
+.Navigation ul{
+    list-style: none;
+    display: flex;
+}
+
+.navigation-list li{
+    color: white;
+    margin: 0 16px;
+}
